@@ -1,4 +1,4 @@
-# NYC Rent → Mapbox (Starter)
+# NYC Rent - Mapbox (Starter)
 Quick steps to pull ACS data (median gross rent), roll up to NYC NTAs, CPI-adjust to 2025 USD, and export a GeoJSON ready for Mapbox tiles.
 
 ## 0) Install dependencies
